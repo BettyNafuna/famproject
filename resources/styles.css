@@ -17,7 +17,7 @@ body,
 
   #welcomePage{
     background-color: #6b5b95;
-     background-image: url("../Images/download.png"); 
+     background-image: url("../Images/gaming-logo-maker-featuring-an-alien-illustration-1877p-2931.png"); 
     background-repeat: no-repeat;
     background-size: contain;
     
@@ -208,4 +208,13 @@ button {
   .btn-outline-warning {
     color: rgb(245, 186, 10);
     border-color: rgb(254, 192, 8);
+}
+
+@media {
+  .form-task{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: auto;
+    margin-right: auto;
+  }
 }
